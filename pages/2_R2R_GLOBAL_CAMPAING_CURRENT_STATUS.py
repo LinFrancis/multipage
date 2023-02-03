@@ -1,11 +1,10 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-import plotly.express as px
 import matplotlib.pyplot as plt
 import matplotlib.ticker as mtick
 import seaborn as sns
-
+import plotly.express as px
 
 #__________________________________________________________________________________________________________________________________________________________________
 # Dashboard structure
