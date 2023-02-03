@@ -1,5 +1,11 @@
-from PIL import Image
 import streamlit as st
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import matplotlib.ticker as mtick
+import seaborn as sns
+import plotly.express as px
+from PIL import Image
 
 st.set_page_config(page_title="R2R DATA EXPLORER", page_icon="🌱", layout="wide", initial_sidebar_state="expanded")
 
